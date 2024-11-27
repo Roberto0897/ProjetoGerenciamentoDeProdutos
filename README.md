@@ -1,2 +1,2 @@
-# ProjetoGerenciamentoDeProdutos
-Projeto desenvolvimento de sistema gerenciamento  de produtos, em java.
+# Projetos Orientacao a Objetos em JAVA!
+Desenvolvimento de alguns projetos simples, realizados!
